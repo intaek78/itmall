@@ -1,0 +1,14 @@
+itmass\Ordered.class
+itmass\external\PaymentService.class
+itmass\AbstractEvent.class
+itmass\DeliveryCanceled.class
+itmass\OrderApplication.class
+itmass\Shipped.class
+itmass\OrderController.class
+itmass\OrderRepository.class
+itmass\PolicyHandler.class
+itmass\external\Payment.class
+itmass\config\kafka\KafkaProcessor.class
+itmass\AbstractEvent$1.class
+itmass\OrderCancelled.class
+itmass\Order.class
